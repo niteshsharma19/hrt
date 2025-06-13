@@ -1,0 +1,6 @@
+
+# To ignore desktop.ini
+desktop.ini
+
+# Ignore Google Drive temp upload cache
+.tmp.driveupload/
