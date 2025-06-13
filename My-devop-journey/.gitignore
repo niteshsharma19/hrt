@@ -1,6 +1,10 @@
 
+# ignore vim/vi swap files
+*.swo
+*.swp
 # To ignore desktop.ini
 desktop.ini
-
+#ignore temp
+../.tmp.driveupload/
 # Ignore Google Drive temp upload cache
 .tmp.driveupload/
